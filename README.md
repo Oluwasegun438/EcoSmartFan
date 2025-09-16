@@ -1,4 +1,4 @@
-# EcoSmart Fan 🌬️⚡
+I'm# EcoSmart Fan 🌬️⚡
 
 An IoT-enabled, energy-efficient smart fan system powered by ESP32, with automatic mode (sensor-based) and manual mode (web interface). Designed for optimized cooling and power efficiency.
 
@@ -111,4 +111,5 @@ Data logging to Firebase/ThingSpeak.
 👨‍💻 Author
 
 Adedayo Oluwasegun Dada
+
 Undergraduate Research in Intelligent Systems & Embedded Robotics
